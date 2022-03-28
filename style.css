@@ -1,3 +1,8 @@
 body{
-  background-color: hsl(212°, 45%, 89%);
+  background-color: hsl(212, 45%, 89%);
+}
+
+.main{
+  background-color: hsl(0, 0%, 100%);
+  border: 1px solid hsl(220, 15%, 55%);
 }
