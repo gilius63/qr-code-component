@@ -3,6 +3,7 @@ body{
 }
 
 .main{
+  width: 500px;
   background-color: hsl(0, 0%, 100%);
   border: 1px solid hsl(220, 15%, 55%);
   font-family: 'Outfit', sans-serif;
